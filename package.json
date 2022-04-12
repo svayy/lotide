@@ -1,5 +1,5 @@
 {
-  "name": "svay/lotide",
+  "name": "@svay/lotide",
   "version": "1.0.0",
   "description": "",
   "main": "assertEqual.js",
